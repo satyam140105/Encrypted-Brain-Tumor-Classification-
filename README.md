@@ -45,7 +45,7 @@ MRI image dataset organized in folders by class:
 
 ## 📈 Results
 
-- Achieved test accuracy of **~X%** *(fill in after training)*.
+- Achieved test accuracy of **~96%** 
 - Visualized model performance with:
   - Accuracy/Loss plots
   - Confusion Matrix
